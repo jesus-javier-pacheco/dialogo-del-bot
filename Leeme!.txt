@@ -1,0 +1,1 @@
+el documentode word "dialogo del bot" contiene los dialogos del chatbot para un app que detecte enfermedades con IA y acompañado de un chatbot
